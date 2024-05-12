@@ -26,6 +26,14 @@
 
  * Then I find a concise, descriptive title
 
+ ##
+
+ code source: https://git.bootcampcontent.com/boot-camp-consortium-east-coast/FSF-PT-EAST-MAY-050624-A
+
+ I also used the previous zoom meetings for examples of semantic elements.
+
+
+
 
 ##
 
