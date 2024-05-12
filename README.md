@@ -27,6 +27,7 @@
  * Then I find a concise, descriptive title
 
 
+##
 
- * This was really fun even though I didn't change a whole lot. I made a lot of mistakes and learned a lot about coding!
+ This was really fun even though I didn't change a whole lot. I made a lot of mistakes and learned a lot about coding!
 
